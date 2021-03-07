@@ -3,12 +3,6 @@
 #define TEXT_BYTES_PER_LINE 1024
 
 #include <raylib.h>
-//#include <string.h>
-//#include "data.h"
-//#include "rlgl.h"               // raylib OpenGL abstraction layer to OpenGL 1.1, 3.3 or ES2
-
-//#include <stdlib.h>
-//#include <math.h>
 
 int main() {
 	int ok = false;
